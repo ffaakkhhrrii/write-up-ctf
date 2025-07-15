@@ -21,3 +21,6 @@ This means we can run any command as any user (including root) without a passwor
   <img width="909" height="156" alt="image" src="https://github.com/user-attachments/assets/b808b732-3669-4757-b8b8-5e8012d8aab4" />
 - so we execute `sudo cat /root/flag.txt` to show the flag
 <img width="1001" height="141" alt="image" src="https://github.com/user-attachments/assets/5ba63396-114b-4807-8be7-21a408bc8372" />
+
+## Conclusion
+This challenge demonstrates how a seemingly harmless feature like file upload can lead to full system compromise when security best practices are ignored. By exploiting an unrestricted file upload and a dangerously configured sudo privilege, we gained root access and retrieved the flag. It reinforces the importance of input validation, proper server configuration, and applying the principle of least privilege. This is a solid example of a real-world vulnerability chain—from RCE to full privilege escalation.
