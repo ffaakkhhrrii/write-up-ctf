@@ -1,2 +1,2 @@
 # ctf-web-exp
-write up ctf web exploitation
+write up ctf, when yh jago kaya org org😓
