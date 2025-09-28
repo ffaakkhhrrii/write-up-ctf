@@ -1,2 +1,2 @@
-# ctf-web-exp
-write up ctf, when yh jago kaya org org😓
+# Write Up CTF
+Author : fskgri
